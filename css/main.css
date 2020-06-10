@@ -1,4 +1,5 @@
 /* ================== GENERALES ========================*/
+/* amarillo mostaza F7C52F */
 * {
   margin: 0;
   padding: 0;
@@ -22,7 +23,7 @@ body {
 }
 
 .titulo-seccion h2 {
-  color: #0089e0;
+  color: #1942c0;
   font-size: 3.125rem;
   margin-bottom: 15px;
   font-weight: 500;
@@ -80,7 +81,7 @@ body {
 
 .menu-principal a:hover,
 .top-redes a:hover {
-  color: #0089e0;
+  color: #1942c0;
 }
 
 .top-redes a i {
@@ -111,7 +112,7 @@ body {
 
 .fixed-header .menu-principal a:hover,
 .top-redes a:hover {
-  color: #0089e0;
+  color: #1942c0;
 }
 
 /* Mobile Menu */
@@ -169,14 +170,14 @@ body {
   text-decoration: none;
   display: inline-block;
   padding: 8px 20px;
-  background: #0089e0;
+  background: #1942c0;
   color: #fff;
   transition: all 0.7s ease;
 }
 
 .main .banner-principal .texto-banner a:hover {
   background: #fff;
-  color: #0089e0;
+  color: #1942c0;
 }
 
 /* PROYECTOS */
@@ -289,7 +290,7 @@ body {
 
 .main .contenedor-slider .btn-anterior i:hover,
 .main .contenedor-slider .btn-siguiente i:hover {
-  color: #0089e0;
+  color: #1942c0;
 }
 
 /* Nuestro EQUIPO */
@@ -336,7 +337,7 @@ body {
 .main .nuestro-equipo .equipo .persona-equipo .texto h3 {
   font-size: 1.3rem;
   font-weight: 500;
-  color: #0089e0;
+  color: #1942c0;
 }
 
 .main .nuestro-equipo .equipo .persona-equipo .texto h4 {
@@ -442,7 +443,7 @@ body {
 .main .contacto .contenedor-formulario .formulario h2 {
   font-size: 1.375rem;
   line-height: 24px;
-  color: #0089e0;
+  color: #1942c0;
   font-weight: 500;
   margin-bottom: 10px;
 }
@@ -488,9 +489,9 @@ body {
 .main .contacto .contenedor-formulario .formulario form input[type="submit"] {
   width: 100%;
   border: none;
-  border: 1px solid #0089e0;
+  border: 1px solid #1942c0;
   padding: 8px;
-  background: #0089e0;
+  background: #1942c0;
   color: #fff;
   font-size: 0.9rem;
   font-family: "Poppins", sans-serif;
@@ -506,7 +507,7 @@ body {
   form
   input[type="submit"]:hover {
   background: #fff;
-  color: #0089e0;
+  color: #1942c0;
 }
 
 .main .contacto .contenedor-formulario .foto {
@@ -543,5 +544,5 @@ footer .footer-redes a {
 }
 
 footer .footer-redes a:hover {
-  color: #0089e0;
+  color: #1942c0;
 }
